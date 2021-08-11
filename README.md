@@ -1,5 +1,5 @@
 # Weather API
-Weather API application to get information of the weather of different cities.
+Weather API application to get information of the weather of different cities around the world.
 
 # Run on local system
 - Clone the repository
